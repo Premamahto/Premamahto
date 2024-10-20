@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Core in Full Stack development at **Parul University**.
 - ❤ Learning New Technology.
-- 💻 Visit my [Portfolio]() for more details .
+- 💻 Visit my <a href ="https://github.com/user-attachments/assets/e293f329-9fb0-49b1-a578-2edc840ef4e7">Portfolio </a> for more details .
 <!--End Intro-->
 
 
