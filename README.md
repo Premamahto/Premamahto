@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Core in Full Stack development at **Parul University**.
 - ❤ Learning New Technology.
-- 💻 Visit my <a href ="https://premamahto.github.io/portfolio/">Portfolio </a> for more details .
+- 💻 Visit my <a href ="https://tourmaline-strudel-862b2c.netlify.app/">Portfolio </a> for more details .
 <!--End Intro-->
 
 
