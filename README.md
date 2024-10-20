@@ -1,8 +1,9 @@
 
-<!--Shinchan image-->
+<!--Shinchan image
 <div>
-  <img align="right" width="40%" src="https://www.pngwing.com/en/free-png-iiaqi">
+  <img align="right",  width="30%" src="https://w7.pngwing.com/pngs/96/298/png-transparent-shin-chan-illustration-crayon-shin-chan-shinnosuke-nohara-drawing-donald-duck-animated-film-donald-duck-comics-child-heroes.png">
 </div>
+-->
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello I'm Prema! 
@@ -10,7 +11,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">As a dedicated BCA student and a novice in web development, I am eager to join DSC to delve deeper into web technologies, explore emerging trends, and learn from experienced professionals. Aspiring to become a full-stack/MERN stack developer, I am currently honing my JavaScript skills to master React and Node.js. I am enthusiastic about participating in workshops, hackathons, and other technology-related events to expand my knowledge and contribute to the developer community.</p>
+<p align="left">As a Bachelor of Computer Applications (BCA) student, I am eager to actively engage with the developer community and expand my expertise in the latest and most advanced technologies. My goal is to enhance my skills and knowledge in full-stack development. I currently possess a solid foundation in HTML, CSS, JavaScript, Java, and have a basic understanding of Python and SQL. I am enthusiastic about gaining practical, hands-on experience to better understand real-world development practices and deepen my proficiency as a developer..</p>
 
 - ✨ Student at Parul University :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
@@ -18,6 +19,7 @@
 - ❤ Learning New Technology.
 - 💻 Visit my [Portfolio]() for more details about me.
 <!--End Intro-->
+
 
 
 
