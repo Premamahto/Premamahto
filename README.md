@@ -14,9 +14,9 @@
 <p align="left">As a Bachelor of Computer Applications (BCA) student, I am eager to actively engage with the developer community and expand my expertise in the latest and most advanced technologies. My goal is to enhance my skills and knowledge in full-stack development. I currently possess a solid foundation in HTML, CSS, JavaScript, Java, and have a basic understanding of Python and SQL. I am enthusiastic about gaining practical, hands-on experience to better understand real-world development practices and deepen my proficiency as a developer..</p>
 
 - ✨ Student at Parul University :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🌱 I'm currently focusing on java & javascript to major frontend & backend journey.
 - 💁‍♂️ Core in Full Stack development at **Parul University**.
-- ❤ Learning New Technology.
+- ❤ Learning framework & library.
 - 💻 Visit my <a href ="https://tourmaline-strudel-862b2c.netlify.app/">Portfolio </a> for more details .
 <!--End Intro-->
 
