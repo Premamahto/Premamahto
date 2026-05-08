@@ -17,7 +17,7 @@
 - 🌱 I'm currently focusing on java & javascript to major frontend & backend journey.
 - 💁‍♂️ Core in Full Stack development at **Parul University**.
 - ❤ Learning framework & library.
-- 💻 Visit my <a href =" https://premamahto.github.io/portfolio/">Portfolio </a> for more details .
+- 💻 Visit my <a href ="https://premamahto.github.io/portfolio/">Portfolio </a> for more details .
 <!--End Intro-->
 
 
