@@ -1,44 +1,25 @@
-
-<!--Shinchan image
-<div>
-  <img align="right",  width="30%" src="https://w7.pngwing.com/pngs/96/298/png-transparent-shin-chan-illustration-crayon-shin-chan-shinnosuke-nohara-drawing-donald-duck-animated-film-donald-duck-comics-child-heroes.png">
-</div>
--->
-
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello I'm Prema! 
-<b> MERN STACK DEVELOPER </b>
-<br /> 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Prema!
+<b> SOFTWARE DEVELOPER | MSc ADVANCED COMPUTING STUDENT </b>
+<br />
 
-<!--Start Intro-->               
-<p align="left">As a Bachelor of Computer Applications (BCA) student, I am eager to actively engage with the developer community and expand my expertise in the latest and most advanced technologies. My goal is to enhance my skills and knowledge in full-stack development. I currently possess a solid foundation in HTML, CSS, JavaScript, Java, and have a basic understanding of Python and SQL. I am enthusiastic about gaining practical, hands-on experience to better understand real-world development practices and deepen my proficiency as a developer..</p>
+<!--Start Intro-->
+<p align="left">I'm an MSc Advanced Computing student at The Maharaja Sayajirao University of Baroda and a BCA (Full Stack Development) graduate from Parul University. I enjoy building full-stack applications and I'm now going deeper into Python, data structures and algorithms, and problem solving. I have a solid foundation in HTML, CSS, JavaScript, Java, Python and SQL, and I like learning by building real, hands-on projects and taking part in hackathons and coding competitions.</p>
 
-- ✨ Student at Parul University :)
-- 🌱 I'm currently focusing on java & javascript to major frontend & backend journey.
-- 💁‍♂️ Core in Full Stack development at **Parul University**.
-- ❤ Learning framework & library.
-- 💻 Visit my <a href ="https://premamahto.github.io/portfolio/">Portfolio </a> for more details .
+- 🎓 MSc Advanced Computing student at **The Maharaja Sayajirao University of Baroda**
+- 🎓 BCA (Full Stack Development) graduate, **Parul University**
+- 🌱 Currently learning **Python** and practicing **Data Structures & Algorithms** with **System Design** 
+- 💻 Knowledge in full-stack development with Java, JavaScript and React
+- 🤝 Open to opportunities in data analysis, application development and full-stack/backend roles
+- 🔗 Visit my <a href="https://premamahto.github.io/portfolio/">Portfolio</a> for more details
 <!--End Intro-->
-
-
-
 
 ---
 <br />
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<!--Languages and Tools Section-->
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,git&perline=10"  />
+<img width="500px" src="https://skillicons.dev/icons?i=py,java,js,html,css,react,mysql,git&perline=10" />
 </p>
 <br />
-
-
-
-
-
-
-<!---
-Premamahto/Premamahto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
